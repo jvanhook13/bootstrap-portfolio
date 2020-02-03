@@ -237,6 +237,7 @@
 
     height: 150px;
     width: 150px;
+    margin: 15px;
 
 
 
@@ -255,7 +256,7 @@
 
   #Portfolio_tag {
 
-    position: absolute;
+    
     background-color: lawngreen;
     font-size: xx-large;
     left: 450px;
