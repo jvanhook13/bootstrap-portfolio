@@ -67,7 +67,7 @@
 
 }
 
-#Info {
+/* #Info {
 
     float: inherit;
     position: relative;
@@ -99,15 +99,13 @@
 
 
 
-}
-
-.content {
-
-    display: inherit;
+} */
 
 
 
-}
+
+
+/* }
 
 #image {
 
@@ -125,11 +123,11 @@
     margin: 20px;
 
 
-}
+} */
 
 #footer {
 
-    position: sticky;;
+    /* position: sticky;; */
     height: 100px;
     top: 910px;
     padding: 0px;
@@ -144,14 +142,7 @@
 
 }
 
-#footer_tag {
 
-    position: absolute;
-    left: 800px;
-    top: 42px;
-
-
-}
 
 #contact_form  {
 
@@ -264,6 +255,23 @@
 
 
   }
+
+  #footer_portfolio {
+
+    /* position: sticky;; */
+    height: 100px;
+    top: 910px;
+    padding: 0px;
+    border: 1px;
+    color: blue;
+    background-color: lightcoral;
+    z-index: 8;
+    border-top: 8px solid #4aaaa5;
+    
+
+
+
+}
 
 
 
