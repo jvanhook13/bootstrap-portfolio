@@ -183,13 +183,13 @@
 
 #contact_name {
 
-    width: 280%;
+    width: fit-content;
 
 }
 
 #email {
 
-    width: 280%;
+    width: fit-content;
 
 
 
@@ -197,7 +197,7 @@
 
 #message {
 
-    width: 280%;
+    width: fit-content;
     height: 25vh;
 
 
@@ -237,7 +237,7 @@
 
     height: 150px;
     width: 150px;
-    margin: 15px;
+    margin: 25px;
 
 
 
