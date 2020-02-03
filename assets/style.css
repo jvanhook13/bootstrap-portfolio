@@ -173,9 +173,9 @@
 
 #form  {
 
-    position: absolute;
-    right: 55%;
-    bottom: 25%;
+    position: relative;
+   /* right: 40vw; */
+    top: 25%; 
 
 
 
@@ -183,13 +183,13 @@
 
 #contact_name {
 
-    width: fit-content;
+    width: 480px;
 
 }
 
 #email {
 
-    width: fit-content;
+    width: 480px;
 
 
 
@@ -197,7 +197,7 @@
 
 #message {
 
-    width: fit-content;
+    width: 480px;
     height: 25vh;
 
 
